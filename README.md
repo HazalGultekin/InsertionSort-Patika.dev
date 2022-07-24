@@ -28,13 +28,13 @@ Insertion Sort Bitirme Projesi - Patika.dev
 # 2 - Big O Notation Gösterimi
 Her seferinde sayıları küçükten büyüğe doğru sıralarken kendinden daha küçük sayıyla yer değiştirerek sıralama yapılıyor.
 
-n+(n-1)+(n-2)+ ... + 1 = (n*(n+1))/2 = n^2
+n+(n-1)+(n-2)+ ... + 1 = (n*(n+1))/2 = (n²+n)/2
 
 Worst Case = O(n²) 
 
-Average Case =  O(n²)
+Average Case = O(n²)
 
-Best Case =  O(n)
+Best Case = O(n)
 
 
 # 3 - Time Complexity
@@ -58,7 +58,7 @@ Dizi sıralandıktan sonra 18 sayısı bu dizinin ortanca değeri olur. Bu yüzd
 [2,3,4,5|,7,9,8,15,6]
 
 
-
+<https://www.patika.dev/>
 
 
 
